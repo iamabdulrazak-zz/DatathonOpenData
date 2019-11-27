@@ -4,3 +4,9 @@ data-ology/img3.jpg
 data-ology/img4.jpg
 data-ology/img5.jpg
 data-ology/img6.jpg
+data-ology/img7.jpg
+data-ology/img8.jpg
+data-ology/img9.jpg
+data-ology/img10.jpg
+data-ology/img11.jpg
+data-ology/img12.jpg
