@@ -17,11 +17,11 @@ for file in glob.glob(path):
     image_id=""
     counter = 0
     for position, name in enumerate(file):
-        if "/" == file[position] :
+        if "/" == file[position]:
             counter += 1
-        if counter == 6:
-            image_id = file[(position+1):(len(file)-4)]
-            break
+            if counter == 6:
+                image_id = file[(position+1):(len(file)-4)]
+                break
             
     img = Image.open(file)
     engText1 = pytesseract.image_to_string(img, lang='eng')
