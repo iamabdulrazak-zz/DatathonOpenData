@@ -11,7 +11,7 @@ def wordExtract():
     "cholestrol","sodium", "total carbohydrate", "dietary fiber", "sugar", "protein", "vitamin c", "calcium",
     "iron", "calories", "total sugars", "potassium", "fat", "saturated", "trans", "carbohydrate",  "sugars",
     "added sugars", "added sugar", "vitamin a", "vitamin d", "salt"]
-    with open("out.txt") as file:
+    with open("in.txt") as file:
         for line in file:
             s = line.split()
             for i,j in enumerate(s):
