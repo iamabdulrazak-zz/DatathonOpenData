@@ -4,7 +4,7 @@ import cv2
 from glob import glob
 import glob
 
-path = "F:\Projects\DatathonOpenData - Dataology\Solution\images\*.*"
+path = "Solution\images\*.*"
 nutList = ["Carbohydrate","Energy","energy","Total Fat","total Fat","Total fat","total fat","saturated fat","Saturated Fat","saturated Fat","Saturated fat", "monounsaturated fat","monounsaturated Fat",
 "Monounsaturated Fat","Monounsaturated fat","polysaturated fat","Polysaturated Fat","Polysaturated fat","Polysaturated Fat","trans fat","trans Fat","Trans Fat","Trans fat","cholestrol","Cholestrol","sodium",
 "Sodium","Total Carbohydrate","Total carbohydrate","total Carbohydrate","total carbohydrate","dietary fiber","Dietary fiber","dietary Fiber","Dietary Fiber","sugar", "Sugar","protein",
