@@ -1,0 +1,6 @@
+data-ology/img1.jpg
+data-ology/img2.jpg
+data-ology/img3.jpg
+data-ology/img4.jpg
+data-ology/img5.jpg
+data-ology/img6.jpg

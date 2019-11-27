@@ -1,0 +1,28 @@
+energy
+total fat
+saturated fat
+monounsaturated fat
+polysaturated fat
+trans fat
+cholestrol
+sodium
+total carbohydrate
+dietary fiber
+sugar
+protein
+vitamin c
+calcium
+iron
+calories
+total sugars
+potassium
+fat
+saturated
+trans
+carbohydrate
+sugars
+added sugars
+added sugar
+vitamin a
+vitamin d
+salt
