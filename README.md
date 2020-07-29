@@ -35,9 +35,7 @@ This is one of my solutions on the DatathonOpenData!
   <tr>
     <td class="tg-yw4l">Glob</td>
     <td class="tg-yw4l">Python built-in glob module</td></td>
-    <td class="tg-yw4l"><a href="https://pypi.org/project/opencv-python/">
+    <td class="tg-yw4l"><a href="https://pypi.org/project/glob2/">
      <p>PyPI</p>
     </a></td>
   </tr>
-  
-  ![#f03c15](project2.jpg)
